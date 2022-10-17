@@ -16,6 +16,6 @@
 
 <div align="center">
 
-**An Open Source Social Media Platform which reduce the gap between the music.GITHUBTIFY is an Combination of GitHub + Spotify where users can [fork](https://github.com/imaaquibali/githubtify/fork) other's Playlist, Create [issues](https://github.com/imaaquibali/githubtify/issues) on there albums and sec [PRs](https://github.com/imaaquibali/githubtify/pulls) for collaboration**
+**An Open Source Social Media Platform which reduce the gap between the music. GITHUBTIFY is an Combination of GitHub + Spotify where users can [fork](https://github.com/imaaquibali/githubtify/fork) other's Playlist, Create [issues](https://github.com/imaaquibali/githubtify/issues) on there albums and sec [PRs](https://github.com/imaaquibali/githubtify/pulls) for collaboration**
 <br>
 </div>
